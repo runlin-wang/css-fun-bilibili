@@ -8,6 +8,8 @@
   </a>
 </p>
 
+[English](README.md) | **中文**
+
 > 一些有趣的 css 代码
 > 它们来自 [@xiao-high](https://space.bilibili.com/410197001)。
 
@@ -29,7 +31,8 @@ git clone https://github.com/runlin-wang/css-fun-bilibili.git
 
 ## 使用
 
-this is source code, you can build and run
+[源代码](https://github.com/runlin-wang/css-fun-bilibili)  
+这些是源代码，你可以构建和运行
 
 ## 作者
 
