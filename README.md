@@ -13,7 +13,13 @@
 
 ### 🏠 [Homepage](https://runlin-wang.github.io/css-fun-bilibili)
 
-### ✨ [Demo](https://runlin-wang.github.io/css-fun-bilibili)
+### ✨ Demo
+
+- [流光按钮](button)
+- [搜索框](search)
+- [Windows 加载](windows)
+- [发光文本](glowing_text)
+- [文本背景流动](text_background_flow)
 
 ## Install
 
