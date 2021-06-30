@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to css-fun-bilibili 👋</h1>
+<h1 align="center">欢迎来到 xss-fun-bilibili 👋</h1>
 <p>
   <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -8,30 +8,30 @@
   </a>
 </p>
 
-> some fun css code  
-> They come from [@xiao-high](https://space.bilibili.com/410197001).
+> 一些有趣的 css 代码
+> 它们来自 [@xiao-high](https://space.bilibili.com/410197001)。
 
-### 🏠 [Homepage](https://runlin-wang.github.io/css-fun-bilibili)
+### 🏠 [主页](https://runlin-wang.github.io/css-fun-bilibili)
 
-### ✨ Demo
+### ✨ 演示
 
-- [button](button)
-- [search input](search)
-- [Windows loading](windows)
-- [glowing text](glowing_text)
-- [text background flow](text_background_flow)
+- [流光按钮](button)
+- [搜索框](search)
+- [Windows 加载](windows)
+- [发光文本](glowing_text)
+- [文本背景流动](text_background_flow)
 
-## Install
+## 下载
 
 ```sh
 git clone https://github.com/runlin-wang/css-fun-bilibili.git
 ```
 
-## Usage
+## 使用
 
 this is source code, you can build and run
 
-## Author
+## 作者
 
 👤 **leo**
 
@@ -39,18 +39,18 @@ this is source code, you can build and run
 * Twitter: [@Leo36363824](https://twitter.com/Leo36363824)
 * Github: [@runlin-wang](https://github.com/runlin-wang)
 
-## 🤝 Contributing
+## 🤝 贡献
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/runlin-wang/css-fun-bilibili/issues). 
+欢迎贡献，问题和特征要求！<br />随时检查 [问题页面](https://github.com/runlin-wang/css-fun-bilibili/issues). 
 
-## Show your support
+## 显示您的支持
 
-Give a ⭐️ if this project helped you!
+如果这个项目帮助了你，请给一个 ⭐️ !
 
-## 📝 License
+## 📝 许可协议
 
 Copyright © 2021 [leo](https://github.com/runlin-wang).<br />
-This project is [MIT](LICENSE) licensed.
+这个项目是 [MIT](LICENSE) 许可。
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
