@@ -1,8 +1,5 @@
-<h1 align="center">Welcome to example 👋</h1>
+<h1 align="center">Welcome to some fun css code 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/example" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/example.svg">
-  </a>
   <a href="LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
@@ -25,9 +22,7 @@ git clone https://github.com/runlin-wang/css-fun-bilibili.git
 
 ## Usage
 
-```sh
-css-fun-bilibili
-```
+this is source code, you can build and run
 
 ## Author
 
