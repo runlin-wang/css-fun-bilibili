@@ -13,7 +13,7 @@
 > some fun css code  
 > They come from [@xiao-high](https://space.bilibili.com/410197001).
 
-### 🏠 [Homepage](https://runlin-wang.github.io/css-fun-bilibili)
+### 🏠 [Homepage](https://wangrunlin.github.io/css-fun-bilibili)
 
 ### ✨ Demo
 
@@ -26,25 +26,25 @@
 ## Install
 
 ```sh
-git clone https://github.com/runlin-wang/css-fun-bilibili.git
+git clone https://github.com/wangrunlin/css-fun-bilibili.git
 ```
 
 ## Usage
 
-[source code](https://github.com/runlin-wang/css-fun-bilibili)  
+[source code](https://github.com/wangrunlin/css-fun-bilibili)  
 this is source code, you can build and run
 
 ## Author
 
 👤 **leo**
 
-* Website: runlin.live
+* Website: wangrunlin.com
 * Twitter: [@Leo36363824](https://twitter.com/Leo36363824)
-* Github: [@runlin-wang](https://github.com/runlin-wang)
+* Github: [@wangrunlin](https://github.com/wangrunlin)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/runlin-wang/css-fun-bilibili/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/wangrunlin/css-fun-bilibili/issues). 
 
 ## Show your support
 
@@ -52,7 +52,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [leo](https://github.com/runlin-wang).<br />
+Copyright © 2021 [leo](https://github.com/wangrunlin).<br />
 This project is [MIT](LICENSE) licensed.
 
 ***
